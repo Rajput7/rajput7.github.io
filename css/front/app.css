@@ -1111,7 +1111,7 @@ html:not(.horiz) #app .app-c {
 }
 
 html:not(.creaOpen) .fix:not(.onav) #h:not(:hover) .logo {
-  width: 66.6%
+  width: 72.0%
 }
 
 #h .logo svg {
