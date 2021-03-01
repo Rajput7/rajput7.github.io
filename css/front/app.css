@@ -1111,8 +1111,10 @@ html:not(.horiz) #app .app-c {
 }
 
 html:not(.creaOpen) .fix:not(.onav) #h:not(:hover) .logo {
-  width: 76.0%
+  width: 72.0%
 }
+
+/*css epitome hide overflow title idhar */
 
 #h .logo svg {
   fill: #edf1f3;
